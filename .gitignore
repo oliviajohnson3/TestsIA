@@ -1,0 +1,15 @@
+# Environnements virtuels Python
+.venv/
+venv/
+
+# Clés API et secrets
+.env
+.env.*
+!.env.example
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers VS Code
+.vscode/
